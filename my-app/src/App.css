@@ -1,0 +1,27 @@
+* {
+  width: 1110px;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+.bh2{
+  margin: 20px 0;
+}
+
+.bp{
+  font-size: 16px;
+  color: darkblue;
+
+}
+
+.header {
+  font-weight: bold;
+  display: flex;
+  border-bottom: 1px solid #ccc;
+}
+
+.header li  {
+  margin-right: 20px;
+  font-size: 20px;
+  list-style-type: none;
+}
